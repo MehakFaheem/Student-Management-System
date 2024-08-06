@@ -1,8 +1,9 @@
 {
-  "name": "project__06",
+  "name": "mmm-188management_system",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
+  "bin": "management_system.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
